@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Girivar Netam Research</title>
+
+<style>
+body{
+font-family:Arial,sans-serif;
+margin:0;
+background:#f5f5f5;
+color:#222;
+}
+
+header{
+background:#0d47a1;
+color:white;
+padding:40px;
+text-align:center;
+}
+
+nav{
+background:#1565c0;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+section{
+padding:30px;
+margin:20px;
+background:white;
+border-radius:10px;
+}
+
+footer{
+background:#0d47a1;
+color:white;
+text-align:center;
+padding:15px;
+}
+
+h2{
+color:#0d47a1;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Girivar Netam</h1>
+<h3>Mathematics Researcher</h3>
+<p>The New Angle of Think</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#research">Research</a>
+<a href="#book">Book</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+<h2>About Me</h2>
+<p>
+Welcome to my research website.
+I am interested in mathematics, patterns,
+geometric structures and mathematical chemistry.
+</p>
+</section>
+
+<section id="research">
+<h2>Research Papers</h2>
+
+<h3>Tri-Hexagonal Molecular Lattice</h3>
+<p>Formula: T = 4n² + 6</p>
+
+<h3>Hexagonal Chain Structure</h3>
+<p>Formula: T = 4n + 2</p>
+
+</section>
+
+<section id="book">
+<h2>Book</h2>
+<h3>The New Angle of Think</h3>
+<p>
+A short book about mathematical thinking,
+patterns and new perspectives.
+</p>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: girivarnetam5@gmail.com</p>
+</section>
+
+<footer>
+© 2026 Girivar Netam Research
+</footer>
+
+</body>
+</html>
